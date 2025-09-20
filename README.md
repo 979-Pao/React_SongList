@@ -19,9 +19,3 @@ Proyecto **React + Vite** que cumple con las especificaciones:
 npm install
 npm run dev
 ```
-
-Luego entra a la URL que te muestre la terminal (por defecto http://localhost:5173).
-
----
-
-> Sugerencia: Puedes adaptar `src/data/songs.json` con tus propias canciones y carátulas.
