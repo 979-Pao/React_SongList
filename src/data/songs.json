@@ -1,0 +1,37 @@
+[
+  {
+    "titulo": "Bohemian Rhapsody",
+    "album": "A Night at the Opera (Queen)",
+    "imagenAlbum": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Queen_A_Night_At_The_Opera.png/250px-Queen_A_Night_At_The_Opera.png",
+    "duracion": 354,
+    "valoracion": 5
+  },
+  {
+    "titulo": "Shape of You",
+    "album": "÷ (Divide)",
+    "imagenAlbum": "https://upload.wikimedia.org/wikipedia/en/4/45/Divide_cover.png",
+    "duracion": 234,
+    "valoracion": 4
+  },
+  {
+    "titulo": "Viva la Vida",
+    "album": "Viva la Vida or Death and All His Friends",
+    "imagenAlbum": "https://upload.wikimedia.org/wikipedia/en/b/b2/Coldplay_-_Viva_la_Vida_or_Death_and_All_His_Friends.png",
+    "duracion": 242,
+    "valoracion": 4
+  },
+  {
+    "titulo": "Hips Don't Lie",
+    "album": "Oral Fixation, Vol. 2",
+    "imagenAlbum": "https://upload.wikimedia.org/wikipedia/en/9/9e/Oral_Fixation_Vol._2.png",
+    "duracion": 218,
+    "valoracion": 5
+  },
+  {
+    "titulo": "Smells Like Teen Spirit",
+    "album": "Nevermind",
+    "imagenAlbum": "https://upload.wikimedia.org/wikipedia/en/b/b7/NirvanaNevermindalbumcover.jpg",
+    "duracion": 301,
+    "valoracion": 5
+  }
+]
